@@ -1,6 +1,5 @@
 void main() {
-    for (int i = 30; i >= 0; i--) {
-        System.out.print(i);
-        System.out.println();
+    for (int i = 0; i <= 18; i += 3) {
+        System.out.print(i + "   ");
     }
 }
