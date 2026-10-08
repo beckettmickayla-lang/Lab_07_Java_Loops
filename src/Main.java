@@ -1,5 +1,5 @@
 void main() {
-    for (int i = 30; i >= 0; i--) {
+    for (int i = 10; i >= 0; i -= 2) {
         System.out.print(i + "   ");
     }
 }
